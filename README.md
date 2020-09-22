@@ -4,7 +4,7 @@
 
 
 - 👯 I’m an Engineer pursuing a Master's degree in Electrical Engineering
-- 🌱 I’m currently learning JavaScrip to mobile development and React/React Native frameworks
+- 🌱 I’m currently learning JavaScrip and Python to mobile development and React/React Native frameworks
 - 📫 How to reach me: [E-mail](mailto:joao.soares@cear.ufpb.br), [LinkedIn](https://www.linkedin.com/in/joaosfneto/)
 - 🔭 I’m currently looking for opportunities
 
