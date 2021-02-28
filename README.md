@@ -6,7 +6,7 @@
 - 👯 I’m an Engineer pursuing a Master's degree in Electrical Engineering
 - 🌱 I’m currently learning Python to Machine Learning and Data Science, and in my free time JavaScript to mobile development and React/React Native frameworks
 - 📫 How to reach me: [E-mail](mailto:joao.soares@cear.ufpb.br), [LinkedIn](https://www.linkedin.com/in/joaosfneto/), [My Website](https://sites.google.com/view/joaosoares)
-- 🔭 I’m currently working for the [Fiat Chrysler Automobiles (FCA)](https://www.fcagroup.com/en-US/pages/home.aspx) as a Junior Software Engineer.
+- 🔭 I’m currently working for the [Stellantis Group](https://www.stellantis.com/en) as a Junior Software Engineer.
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=joaonetocz)
