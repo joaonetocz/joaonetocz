@@ -1,4 +1,4 @@
-### Hi there, I'm Joao Soares! 👋
+### Hi there, I'm Joao Farias! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-View&nbsp;profile&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaosfneto/)](https://www.linkedin.com/in/joaosfneto/)
 
